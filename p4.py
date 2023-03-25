@@ -14,8 +14,6 @@ def find_product_palidromes(num_digits):
 
   for x in range(max_num, min_num, -1):
     for y in range(max_num, min_num, -1):
-      if x == 91 and y == 99:
-        print('should be palidrome here')
       if is_palidrome(x * y):
         palindromes.append(x * y)
         # if only care about largest values, could skip all lower values of y
