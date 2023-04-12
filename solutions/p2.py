@@ -1,4 +1,4 @@
-from cli import run
+from solutions.cli import run
 
 def generate_fib(max: int):
   nums = [1, 2]

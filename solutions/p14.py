@@ -1,4 +1,4 @@
-from cli import run
+from solutions.cli import run
 
 def collatz_mutate(num: int):
   if num == 1:

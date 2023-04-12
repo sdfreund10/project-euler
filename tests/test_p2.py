@@ -1,4 +1,4 @@
-import p2
+import solutions.p2 as p2
 
 def test_p2():
   example = p2.compute(100)

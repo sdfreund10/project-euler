@@ -1,4 +1,4 @@
-import p14
+import solutions.p14 as p14
 
 def test_p14():
   example = p14.generate_collatz_sequence(13)

@@ -1,4 +1,4 @@
-import p4
+import solutions.p4 as p4
 
 def test_p4():
   example = p4.compute(2)

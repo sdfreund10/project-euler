@@ -1,4 +1,4 @@
-import p17
+import solutions.p17 as p17
 
 def test_p17():
   example = p17.compute(5)

@@ -1,4 +1,4 @@
-from cli import run
+from solutions.cli import run
 import sys
 
 def sum_of_squares(limit):

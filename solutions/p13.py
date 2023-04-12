@@ -1,5 +1,5 @@
 from unicodedata import digit
-from cli import run
+from solutions.cli import run
 
 big_nums = [
   '37107287533902102798797998220837590246510135740250',

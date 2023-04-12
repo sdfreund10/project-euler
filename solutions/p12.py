@@ -1,4 +1,4 @@
-from cli import run
+from solutions.cli import run
 import math
 
 def get_factors(num):

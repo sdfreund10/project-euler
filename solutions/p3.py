@@ -1,4 +1,4 @@
-from cli import run
+from solutions.cli import run
 
 def prime_factors(num: int):
   factors = []

@@ -1,4 +1,4 @@
-from cli import run
+from solutions.cli import run
 
 digit_names = {
   0: '',

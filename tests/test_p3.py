@@ -1,4 +1,4 @@
-import p3
+import solutions.p3 as p3
 
 def test_p3():
   example = p3.compute(13195)

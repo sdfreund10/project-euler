@@ -1,4 +1,4 @@
-from cli import run
+from solutions.cli import run
 
 def sum_of_digits(num: int):
   return sum([

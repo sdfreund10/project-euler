@@ -1,4 +1,4 @@
-from cli import run
+from solutions.cli import run
 from util import get_product
 
 def is_pythagorean_triplet(a, b, c):

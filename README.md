@@ -20,6 +20,6 @@ There are also automated tests to ensure everything is still working.
 # may need to install pytest
 pytest
 
-# Have to run specific test through python interpreter for python reasons
-python -m pytest tests/test_p1.py
+# Run tests for one solution
+pytest tests/test_p1.py
 ```

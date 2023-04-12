@@ -1,6 +1,6 @@
 import math
 
-from cli import run
+from solutions.cli import run
 
 def find_next_prime(primes):
   max_prime = 2

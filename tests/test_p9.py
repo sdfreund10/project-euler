@@ -1,4 +1,4 @@
-import p9
+import solutions.p9 as p9
 
 def test_p9():
   example = p9.compute(12)

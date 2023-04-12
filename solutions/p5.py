@@ -1,7 +1,7 @@
-from cli import run
+from solutions.cli import run
 import math
 
-from p3 import prime_factors
+from solutions.p3 import prime_factors
 
 def factor_counts(num):
   factors = prime_factors(num)

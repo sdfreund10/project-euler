@@ -1,4 +1,4 @@
-from cli import run
+from solutions.cli import run
 
 # coord: num_paths
 steps_to_end = {}
